@@ -12,3 +12,6 @@
     .container titulo, .container frase{
     display:none;
     }
+    @media screen and (min-width: 820px) ( 
+/* ...propriedades cas.. */
+)
